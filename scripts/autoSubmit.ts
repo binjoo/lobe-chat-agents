@@ -6,9 +6,9 @@ import { execSync } from 'node:child_process';
 import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-import { formatAgentJSON } from './check';
+import { CheckEnglishIdentifier, formatAgentJSON } from './check';
 import { agentsDir, githubHomepage } from './const';
-import { checkHeader, getLocaleAgentFileName, writeJSON } from './utils';
+import { checkHeader, getBuildLocaleAgentFileName, writeJSON } from './utils';
 
 const GENERATE_LABEL = '🤖 Agent PR';
 const SUCCESS_LABEL = '✅ Auto Check Pass';
@@ -52,10 +52,33 @@ class AutoSubmit {
     consola.info(`Get issues #${this.issueNumber}`);
 
     const { agent, locale } = await this.formatIssue(issue);
+
+    if (
+      !agent.identifier ||
+      agent.identifier === 'undefined' ||
+      agent.identifier === 'index' ||
+      !CheckEnglishIdentifier(agent.identifier)
+    ) {
+      await this.createComment(
+        [
+          `**🚨 Auto Check Fail:** identifier is invalid`,
+          '- Rename your agent identifier',
+          `- Add issue label \`${GENERATE_LABEL}\` to the current issue`,
+          '- Wait for automation to regenerate',
+          '---',
+          agent.identifier,
+        ].join('\n'),
+      );
+      await this.removeLabels(GENERATE_LABEL);
+      await this.addLabels(ERROR_LABEL);
+      consola.error('Auto Check Fail, identifier is invalid');
+      return;
+    }
+
     const comment = this.genCommentMessage(agent);
     const agentName = agent.identifier;
 
-    const fileName = getLocaleAgentFileName(agentName, locale);
+    const fileName = getBuildLocaleAgentFileName(agentName, locale);
     const filePath = resolve(agentsDir, fileName);
 
     // check same name
@@ -81,20 +104,13 @@ class AutoSubmit {
     consola.info(`Auto Check Pass`);
 
     // commit and pull request
-    this.gitCommit(filePath, agent, agentName);
+    await this.gitCommit(filePath, agent, agentName);
     consola.info('Commit to', `agent/${agentName}`);
-
-    await this.createPullRequest(
-      agentName,
-      agent.author,
-      [comment, `[@${agent.author}](${agent.homepage}) (resolve #${this.issueNumber})`].join('\n'),
-    );
-    consola.success('Create PR');
 
     await this.addLabels(SUCCESS_LABEL);
   }
 
-  gitCommit(filePath, agent, agentName) {
+  async gitCommit(filePath, agent, agentName) {
     execSync('git diff');
     execSync('git config --global user.name "lobehubbot"');
     execSync('git config --global user.email "i@lobehub.com"');
@@ -106,16 +122,6 @@ class AutoSubmit {
     writeJSON(filePath, agent);
     consola.info('Generate file', filePath);
 
-    // commit
-    execSync('git add -A');
-    execSync(`git commit -m "🤖 chore(auto-submit): Add ${agentName} (#${this.issueNumber})"`);
-    execSync(`git push origin agent/${agentName}`);
-    consola.info('Push agent');
-
-    // i18n
-    execSync('bun run format');
-    consola.info('Generate i18n file');
-
     // prettier
     execSync(`echo "module.exports = require('@lobehub/lint').prettier;" >> .prettierrc.cjs`);
     execSync('bun run prettier');
@@ -123,11 +129,18 @@ class AutoSubmit {
 
     // commit
     execSync('git add -A');
-    execSync(
-      `git commit -m "🤖 chore(auto-submit): Generate i18n for ${agentName} (#${this.issueNumber})"`,
-    );
+    execSync(`git commit -m "🤖 chore(auto-submit): Add ${agentName} (#${this.issueNumber})"`);
     execSync(`git push origin agent/${agentName}`);
-    consola.info('Push i18n');
+    consola.info('Push agent');
+
+    // pr
+    const comment = this.genCommentMessage(agent);
+    await this.createPullRequest(
+      agentName,
+      agent.author,
+      [comment, `[@${agent.author}](${agent.homepage}) (resolve #${this.issueNumber})`].join('\n'),
+    );
+    consola.success('Create PR');
   }
 
   genCommentMessage(json) {
