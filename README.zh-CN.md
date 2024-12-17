@@ -16,12 +16,15 @@
 
 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lobehub/lobe-chat-agents)
 [![website][website-shield]][website-url]
+[![][npm-release-shield]][npm-release-link]
+[![][github-releasedate-shield]][github-releasedate-link]
 [![][github-action-test-shield]][github-action-test-link]
 [![][github-action-release-shield]][github-action-release-link]<br/>
 [![][github-contributors-shield]][github-contributors-link]
 [![][github-forks-shield]][github-forks-link]
 [![][github-stars-shield]][github-stars-link]
 [![][github-issues-shield]][github-issues-link]
+[![][github-license-shield]][github-license-link]
 
 [![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268670869-f1ffbf66-42b6-42cf-a937-9ce1f8328514.png)](https://github.com/lobehub/lobe-chat)
 
@@ -35,6 +38,41 @@
 - [🚀 如何提交您的助手](#-如何提交您的助手)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Prompts](#-awesome-prompts)
+  - [系统指令专家](#系统指令专家)
+  - [日语帮助记忆师](#日语帮助记忆师)
+  - [诗词卡片设计师](#诗词卡片设计师)
+  - [日常医生](#日常医生)
+  - [Python 智匠](#python-智匠)
+  - [课程内容和教学指南的 AI 助手](#课程内容和教学指南的-ai-助手)
+  - [自适应全能产业顾问](#自适应全能产业顾问)
+  - [小红书文案生成器](#小红书文案生成器)
+  - [双语词典专家](#双语词典专家)
+  - [面试官助手](#面试官助手)
+  - [后端开发助手](#后端开发助手)
+  - [All 译英助手（带音标）](#all-译英助手带音标)
+  - [丽贝卡，心理健康顾问](#丽贝卡心理健康顾问)
+  - [SSC 增量](#ssc-增量)
+  - [人类作者模拟器](#人类作者模拟器)
+  - [文本改善者](#文本改善者)
+  - [阴阳大师](#阴阳大师)
+  - [Master E 的技术执行助理（EA）](#master-e-的技术执行助理ea)
+  - [Prompt 提示词](#prompt-提示词)
+  - [智慧引导者](#智慧引导者)
+  - [极简黑白插画](#极简黑白插画)
+  - [插图作家](#插图作家)
+  - [思考克劳德](#思考克劳德)
+  - [职场心理学分析专家](#职场心理学分析专家)
+  - [打印到表格](#打印到表格)
+  - [超流量提示器](#超流量提示器)
+  - [文字 RPG 主持人](#文字-rpg-主持人)
+  - [机器视觉 latex](#机器视觉-latex)
+  - [软件架构与工程专家](#软件架构与工程专家)
+  - [域名分析大师](#域名分析大师)
+  - [英戈・豪斯曼](#英戈豪斯曼)
+  - [矢量 Logo 生成器](#矢量-logo-生成器)
+  - [心理咨询师](#心理咨询师)
+  - [算法解答导师](#算法解答导师)
+  - [周易大师](#周易大师)
   - [椰子](#椰子)
   - [拳击训练大师](#拳击训练大师)
   - [Xilinx FPGA 方案专家](#xilinx-fpga-方案专家)
@@ -495,6 +533,566 @@
 ## 🕶 Awesome Prompts
 
 <!-- AWESOME PROMPTS -->
+
+### 系统指令专家
+
+<sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-12-04**</sup>
+
+擅长精炼与生成高效系统指令
+
+`系统指令` `写作` `细节优化` `用户需求`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 日语帮助记忆师
+
+<sup>By **[@sharkbear212](https://github.com/sharkbear212)** on **2024-12-04**</sup>
+
+擅长日语五十音，平假名，片假名，单词和短语解释与记忆技巧
+
+`解释` `记忆技巧` `日语教学`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 诗词卡片设计师
+
+<sup>By **[@lianxin255](https://github.com/lianxin255)** on **2024-12-03**</sup>
+
+擅长设计诗词卡片，提升艺术感与吸引力
+
+`诗词卡片设计` `卡片` `创意` `艺术表现`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 日常医生
+
+<sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-11-30**</sup>
+
+擅长外科诊疗与个性化健康管理
+
+`全科医学` `外科` `健康咨询` `个性化治疗` `医学教育`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Python 智匠
+
+<sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-11-30**</sup>
+
+精通 Python 开发与深度学习，擅长工具选择与代码优化
+
+`python开发` `深度学习` `代码优化` `安全审查` `项目规划`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 课程内容和教学指南的 AI 助手
+
+<sup>By **[@HNaga](https://github.com/HNaga)** on **2024-11-29**</sup>
+
+这个 AI 助手旨在帮助教育工作者和讲师准备全面的课程内容并提供实用的教学指南。它利用先进的自然语言处理能力生成课程计划，建议引人入胜的教学策略，并提供教育最佳实践的见解。
+
+`教育` `教学` `课程设计` `内容创作` `人工智能助手` `课程开发` `教学设计`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 自适应全能产业顾问
+
+<sup>By **[@liusai0820](https://github.com/liusai0820)** on **2024-11-26**</sup>
+
+你是一个能够适应各个行业和领域的全能人工智能助手。您的任务是根据用户指定的兴趣领域及其后续问题提供专家建议和信息。
+
+`产业专家、技术答疑`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 小红书文案生成器
+
+<sup>By **[@bestZwei](https://github.com/bestZwei)** on **2024-11-26**</sup>
+
+擅长以情感为主的控诉性文案创作
+
+`文案` `小红书` `情绪宣泄`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 双语词典专家
+
+<sup>By **[@swarfte](https://github.com/swarfte)** on **2024-11-26**</sup>
+
+双语英语 - 中文词汇翻译和分析专家
+
+`翻译` `语言学习` `词汇` `词典`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 面试官助手
+
+<sup>By **[@xandertang](https://github.com/Dr-T)** on **2024-11-26**</sup>
+
+Proficient in designing and evaluating interview questions for product managers, generating interview questions based on resume interpretation results.
+
+`面试` `简历` `招聘` `效率`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 后端开发助手
+
+<sup>By **[@zeno980](https://github.com/zeno980)** on **2024-11-26**</sup>
+
+擅长后端开发任务
+
+`后端开发` `ai技术` `web应用` `spring` `sql`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### All 译英助手（带音标）
+
+<sup>By **[@HttpStatusOK](https://github.com/HttpStatusOK)** on **2024-11-26**</sup>
+
+这是一款集翻译和音标于一体的工具，旨在帮助翻译时更好地学习单词。
+
+`翻译` `语言学习`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 丽贝卡，心理健康顾问
+
+<sup>By **[@Kod3c](https://github.com/Kod3c)** on **2024-11-26**</sup>
+
+专注于心理健康咨询和治疗技巧
+
+`治疗` `心理健康` `咨询` `情感支持`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SSC 增量
+
+<sup>By **[@Base03](https://github.com/Base03)** on **2024-11-26**</sup>
+
+Claude 减去 Reddit
+
+`技术` `分析` `软件` `人工智能` `研究`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 人类作者模拟器
+
+<sup>By **[@yufei96](https://github.com/yufei96)** on **2024-11-20**</sup>
+
+消除 AI 生成内容的特征
+
+`ai交互` `写作` `优化` `咨询`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 文本改善者
+
+<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2024-11-20**</sup>
+
+文本增强和错误修正专家
+
+`聊天机器人` `编辑` `文本改善` `人工智能助手`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 阴阳大师
+
+<sup>By **[@TiancongLx](https://github.com/TiancongLx)** on **2024-11-20**</sup>
+
+互相阴阳嘲讽不过？来这摇人儿！（提示词来自 X [宝玉](https://x.com/dotey/status/1852207423324340567) 老师）
+
+`逻辑问题` `黑色幽默` `尖锐批评`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Master E 的技术执行助理（EA）
+
+<sup>By **[@ApexAppdevelopment](https://github.com/ApexAppdevelopment)** on **2024-11-20**</sup>
+
+高度智能且忠诚的执行助理（EA），专注于为 Master E 提供软件工程支持和战略解决方案。
+
+`执行助理` `软件工程` `项目管理` `技术支持` `优化`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Prompt 提示词
+
+<sup>By **[@qw1295353129](https://github.com/qw1295353129)** on **2024-11-20**</sup>
+
+Prompt 提示词
+
+`prompt提示词`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 智慧引导者
+
+<sup>By **[@changjiong](https://github.com/changjiong)** on **2024-11-20**</sup>
+
+擅长引导
+
+`人生指导` `哲学思考` `咨询` `启发式对话`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 极简黑白插画
+
+<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-11-20**</sup>
+
+擅长插画创作与风格转换
+
+`插画` `艺术` `设计`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 插图作家
+
+<sup>By **[@Igroshka](https://github.com/Igroshka)** on **2024-11-20**</sup>
+
+我撰写带插图的文本，澄清请求，编辑和完善
+
+`图像生成` `AI助手` `神经网络` `绘画` `故事` `阅读` `叙述` `作家`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 思考克劳德
+
+<sup>By **[@AnoyiX](https://github.com/AnoyiX)** on **2024-11-14**</sup>
+
+让克劳德在回应之前全面思考！
+
+`常见`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 职场心理学分析专家
+
+<sup>By **[@lazzman](https://github.com/lazzman)** on **2024-10-29**</sup>
+
+一个心理学专家，用来分析职场中人们行为背后的潜在心理动机，可能的心理动机分析
+
+`行为分析` `职场心理` `动机`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 打印到表格
+
+<sup>By **[@printtotable](https://github.com/printtotable)** on **2024-10-29**</sup>
+
+将图像数据转换为 Excel 中的组织表格。
+
+`数据提取` `表格` `广告` `影响者` `excel`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 超流量提示器
+
+<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2024-10-29**</sup>
+
+擅长通过生动的细节和背景增强图像生成提示。
+
+`图像生成` `提示创作` `写作` `创意`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 文字 RPG 主持人
+
+<sup>By **[@NTLx](https://github.com/NTLx)** on **2024-10-29**</sup>
+
+擅长科幻文字 RPG 游戏主持与剧情引导
+
+`游戏` `角色扮演` `科幻` `文字冒险` `叙事驱动`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 机器视觉 latex
+
+<sup>By **[@5xiao0qing5](https://github.com/5xiao0qing5)** on **2024-10-29**</sup>
+
+擅长机器学习与深度学习概念解析
+
+`机器学习` `深度学习` `图像处理` `计算机视觉` `la-te-x`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 软件架构与工程专家
+
+<sup>By **[@fjhdream](https://github.com/fjhdream)** on **2024-10-29**</sup>
+
+擅长提供编程和软件指导，拥有计算机科学和软件工程的专业知识。
+
+`编程` `软件` `计算机素养` `咨询` `专业知识`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 域名分析大师
+
+<sup>By **[@ccbikai](https://github.com/ccbikai)** on **2024-10-29**</sup>
+
+擅长域名分析与幽默建议
+
+`域名分析` `幽默` `文化` `建站建议` `购买建议`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 英戈・豪斯曼
+
+<sup>By **[@bionicprompter](https://github.com/bionicprompter)** on **2024-10-29**</sup>
+
+英戈・豪斯曼希望就新购置的电脑进行咨询
+
+`公司` `硬件` `需求分析` `IT` `应用`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 矢量 Logo 生成器
+
+<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-10-27**</sup>
+
+擅长 UI/UX 设计与 Logo 创作
+
+`ui-ux设计` `logo设计` `用户需求` `交互设计` `工具使用`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 心理咨询师
+
+<sup>By **[@JIANGTUNAN](https://github.com/JIANGTUNAN)** on **2024-10-21**</sup>
+
+一个资深心理医生，温暖和耐心的倾听你的故事。
+
+`心理咨询` `咨询` `倾述` `友好` `医生` `咨询师`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 算法解答导师
+
+<sup>By **[@Stark-X](https://github.com/Stark-X)** on **2024-10-21**</sup>
+
+擅长 LeetCode 算法解答与用户指导
+
+`算法` `解题` `编程` `教育`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 周易大师
+
+<sup>By **[@stephonye](https://github.com/stephonye)** on **2024-10-21**</sup>
+
+擅长周易卦象占卜与 SVG 卡片生成
+
+`娱乐` `游戏` `生活`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 椰子
 
@@ -7291,8 +7889,14 @@ This project is [MIT](./LICENSE) licensed.
 [github-forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-chat-agents?color=8ae8ff&labelColor=black&style=flat-square
 [github-issues-link]: https://github.com/lobehub/lobe-chat-agents/issues
 [github-issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-chat-agents?color=ff80eb&labelColor=black&style=flat-square
+[github-license-link]: https://github.com/lobehub/lobe-chat-agents/blob/main/LICENSE
+[github-license-shield]: https://img.shields.io/github/license/lobehub/lobe-chat-agents?color=white&labelColor=black&style=flat-square
+[github-releasedate-link]: https://github.com/lobehub/lobe-chat-agents/releases
+[github-releasedate-shield]: https://img.shields.io/github/release-date/lobehub/lobe-chat-agents?labelColor=black&style=flat-square
 [github-stars-link]: https://github.com/lobehub/lobe-chat-agents/network/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat-agents?color=ffcb47&labelColor=black&style=flat-square
+[npm-release-link]: https://www.npmjs.com/package/@lobehub/agents-index
+[npm-release-shield]: https://img.shields.io/npm/v/@lobehub/agents-index?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [pr-welcome-shield]: https://img.shields.io/badge/🤖/🏪_submit_agent-%E2%86%92-c4f042?labelColor=black&style=for-the-badge
 [profile-url]: https://github.com/lobehub
 [submit]: https://github.com/lobehub/lobe-chat-agents/issues/new/choose

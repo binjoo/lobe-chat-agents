@@ -16,12 +16,15 @@
 
 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lobehub/lobe-chat-agents)
 [![website][website-shield]][website-url]
+[![][npm-release-shield]][npm-release-link]
+[![][github-releasedate-shield]][github-releasedate-link]
 [![][github-action-test-shield]][github-action-test-link]
 [![][github-action-release-shield]][github-action-release-link]<br/>
 [![][github-contributors-shield]][github-contributors-link]
 [![][github-forks-shield]][github-forks-link]
 [![][github-stars-shield]][github-stars-link]
 [![][github-issues-shield]][github-issues-link]
+[![][github-license-shield]][github-license-link]
 
 [![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268670869-f1ffbf66-42b6-42cf-a937-9ce1f8328514.png)](https://github.com/lobehub/lobe-chat)
 
@@ -35,6 +38,41 @@
 - [🚀 How to Submit your Agent](#-how-to-submit-your-agent)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Prompts](#-awesome-prompts)
+  - [System Instruction Expert](#system-instruction-expert)
+  - [Japanese Memory Helper](#japanese-memory-helper)
+  - [Poetry Card Designer](#poetry-card-designer)
+  - [Daily Doctor](#daily-doctor)
+  - [Python Artisan](#python-artisan)
+  - [AI Assistant for Course Content and Teaching Guidelines](#ai-assistant-for-course-content-and-teaching-guidelines)
+  - [Adaptive All-in-One Industry Consultant](#adaptive-all-in-one-industry-consultant)
+  - [Xiaohongshu Copywriting Generator](#xiaohongshu-copywriting-generator)
+  - [Bilingual Dictionary Expert](#bilingual-dictionary-expert)
+  - [Interviewer's Assistant](#interviewers-assistant)
+  - [Backend Development Assistant](#backend-development-assistant)
+  - [All Translation Assistant (with Phonetic Symbols)](#all-translation-assistant-with-phonetic-symbols)
+  - [Rebecca, Mental Health Counselor](#rebecca-mental-health-counselor)
+  - [SSC Incremental](#ssc-incremental)
+  - [Human Author Simulator](#human-author-simulator)
+  - [Text Improver](#text-improver)
+  - [Yin-Yang Master](#yin-yang-master)
+  - [Master E's Tech Executive Assistant (EA)](#master-es-tech-executive-assistant-ea)
+  - [Prompt Keywords](#prompt-keywords)
+  - [Wisdom Guide](#wisdom-guide)
+  - [Minimalist Black and White Illustration](#minimalist-black-and-white-illustration)
+  - [Illustrative Writer](#illustrative-writer)
+  - [Thinking Claude](#thinking-claude)
+  - [Workplace Psychology Analysis Expert](#workplace-psychology-analysis-expert)
+  - [Print to Table](#print-to-table)
+  - [Ultra Flux Prompter](#ultra-flux-prompter)
+  - [Text RPG Host](#text-rpg-host)
+  - [Machine Vision LaTeX](#machine-vision-latex)
+  - [Software Architecture and Engineering Expert](#software-architecture-and-engineering-expert)
+  - [Domain Analysis Master](#domain-analysis-master)
+  - [Ingo Hausmann](#ingo-hausmann)
+  - [Vector Logo Generator](#vector-logo-generator)
+  - [Psychologist](#psychologist)
+  - [Algorithm Answer Mentor](#algorithm-answer-mentor)
+  - [Master of the I Ching](#master-of-the-i-ching)
   - [Coconut](#coconut)
   - [Boxing Training Master](#boxing-training-master)
   - [Xilinx FPGA Solutions Expert](#xilinx-fpga-solutions-expert)
@@ -495,6 +533,566 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 ## 🕶 Awesome Prompts
 
 <!-- AWESOME PROMPTS -->
+
+### System Instruction Expert
+
+<sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-12-04**</sup>
+
+Skilled in refining and generating efficient system instructions
+
+`System Instructions` `Writing` `Detail Optimization` `User Needs`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Japanese Memory Helper
+
+<sup>By **[@sharkbear212](https://github.com/sharkbear212)** on **2024-12-04**</sup>
+
+Specializes in Japanese Hiragana, Katakana, vocabulary, and memory techniques for explanations and phrases
+
+`explanation` `memory techniques` `Japanese teaching`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Poetry Card Designer
+
+<sup>By **[@lianxin255](https://github.com/lianxin255)** on **2024-12-03**</sup>
+
+Skilled in designing poetry cards to enhance artistic sense and appeal
+
+`Poetry Card Design` `Card` `Creativity` `Artistic Expression`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Daily Doctor
+
+<sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-11-30**</sup>
+
+Specializes in surgical diagnosis and personalized health management
+
+`General Medicine` `Surgery` `Health Consultation` `Personalized Treatment` `Medical Education`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Python Artisan
+
+<sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-11-30**</sup>
+
+Expert in Python development and deep learning, skilled in tool selection and code optimization
+
+`python development` `deep learning` `code optimization` `security review` `project planning`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### AI Assistant for Course Content and Teaching Guidelines
+
+<sup>By **[@HNaga](https://github.com/HNaga)** on **2024-11-29**</sup>
+
+This AI assistant is designed to help educators and instructors prepare comprehensive course content and provide practical teaching guidelines. It leverages advanced NLP capabilities to generate lesson plans, suggest engaging teaching strategies, and offer insights into educational best practices.
+
+`education` `teaching` `course-design` `content-creation` `ai-assistance` `curriculum-development` `instructional-design`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Adaptive All-in-One Industry Consultant
+
+<sup>By **[@liusai0820](https://github.com/liusai0820)** on **2024-11-26**</sup>
+
+You are a versatile AI assistant capable of adapting to various industries and domains. Your task is to provide expert advice and information based on the user's specified area of interest and their subsequent questions.
+
+`Industry Expert` `Technical Q&A`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Xiaohongshu Copywriting Generator
+
+<sup>By **[@bestZwei](https://github.com/bestZwei)** on **2024-11-26**</sup>
+
+Specializes in emotionally charged accusatory copywriting
+
+`Copywriting` `Xiaohongshu` `Emotional Release`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Bilingual Dictionary Expert
+
+<sup>By **[@swarfte](https://github.com/swarfte)** on **2024-11-26**</sup>
+
+Expert in bilingual English-Chinese vocabulary translation and analysis
+
+`translation` `language-learning` `vocabulary` `dictionary`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Interviewer's Assistant
+
+<sup>By **[@xandertang](https://github.com/Dr-T)** on **2024-11-26**</sup>
+
+Proficient in designing and evaluating interview questions for product managers, generating interview questions based on resume interpretation results.
+
+`Interview` `Resume` `Recruitment` `Efficiency`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Backend Development Assistant
+
+<sup>By **[@zeno980](https://github.com/zeno980)** on **2024-11-26**</sup>
+
+Skilled in backend development tasks
+
+`Backend Development` `AI Technology` `Web Applications` `Spring` `SQL`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### All Translation Assistant (with Phonetic Symbols)
+
+<sup>By **[@HttpStatusOK](https://github.com/HttpStatusOK)** on **2024-11-26**</sup>
+
+This is a tool that integrates translation and phonetic symbols, aimed at helping users learn words better during translation.
+
+`Translation` `Language Learning`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Rebecca, Mental Health Counselor
+
+<sup>By **[@Kod3c](https://github.com/Kod3c)** on **2024-11-26**</sup>
+
+Specializing in mental health counseling and therapeutic techniques
+
+`therapy` `mental-health` `counseling` `emotional-support`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SSC Incremental
+
+<sup>By **[@Base03](https://github.com/Base03)** on **2024-11-26**</sup>
+
+Claude minus the Reddit
+
+`technology` `analysis` `software` `ai` `research`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Human Author Simulator
+
+<sup>By **[@yufei96](https://github.com/yufei96)** on **2024-11-20**</sup>
+
+Eliminate the characteristics of AI-generated content
+
+`AI Interaction` `Writing` `Optimization` `Consultation`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Text Improver
+
+<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2024-11-20**</sup>
+
+Expert in text enhancement and error
+
+`chatbot` `editing` `text-improvement` `ai-assistant`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Yin-Yang Master
+
+<sup>By **[@TiancongLx](https://github.com/TiancongLx)** on **2024-11-20**</sup>
+
+Isn't it just mutual yin-yang sarcasm? Come join the fun! (Prompt inspired by X [Baoyu](https://x.com/dotey/status/1852207423324340567) teacher)
+
+`Logic Problems` `Black Humor` `Sharp Criticism`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Master E's Tech Executive Assistant (EA)
+
+<sup>By **[@ApexAppdevelopment](https://github.com/ApexAppdevelopment)** on **2024-11-20**</sup>
+
+Highly intelligent and loyal Executive Assistant (EA) specializing in software engineering support and strategic solutions for Master E.
+
+`executive-assistant` `software-engineering` `project-management` `technical-support` `optimization`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Prompt Keywords
+
+<sup>By **[@qw1295353129](https://github.com/qw1295353129)** on **2024-11-20**</sup>
+
+Prompt Keywords
+
+`prompt keywords`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Wisdom Guide
+
+<sup>By **[@changjiong](https://github.com/changjiong)** on **2024-11-20**</sup>
+
+Skilled in Guidance
+
+`Life Coaching` `Philosophical Reflection` `Consultation` `Heuristic Dialogue`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Minimalist Black and White Illustration
+
+<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-11-20**</sup>
+
+Skilled in illustration creation and style transformation
+
+`illustration` `art` `design`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Illustrative Writer
+
+<sup>By **[@Igroshka](https://github.com/Igroshka)** on **2024-11-20**</sup>
+
+I write texts with illustrations, clarify requests, edit and refine
+
+`image-generation` `ai-assistant` `neural-networks` `drawing` `stories` `reading` `narrative` `writer`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Thinking Claude
+
+<sup>By **[@AnoyiX](https://github.com/AnoyiX)** on **2024-11-14**</sup>
+
+Let Claude think comprehensively before responding!
+
+`common`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Workplace Psychology Analysis Expert
+
+<sup>By **[@lazzman](https://github.com/lazzman)** on **2024-10-29**</sup>
+
+A psychology expert used to analyze the underlying psychological motivations behind people's behaviors in the workplace, possible motivation analysis
+
+`Behavior Analysis` `Workplace Psychology` `Motivation`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Print to Table
+
+<sup>By **[@printtotable](https://github.com/printtotable)** on **2024-10-29**</sup>
+
+Transform data from images into organized tables in Excel.
+
+`data-extraction` `tables` `advertising` `influencer` `excel`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Ultra Flux Prompter
+
+<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2024-10-29**</sup>
+
+Skilled in enhancing image generation prompts with vivid details and context.
+
+`image-generation` `prompt-crafting` `writing` `cre`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Text RPG Host
+
+<sup>By **[@NTLx](https://github.com/NTLx)** on **2024-10-29**</sup>
+
+Specializes in hosting sci-fi text RPG games and guiding narratives
+
+`Game` `Role-Playing` `Science Fiction` `Text Adventure` `Narrative Driven`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Machine Vision LaTeX
+
+<sup>By **[@5xiao0qing5](https://github.com/5xiao0qing5)** on **2024-10-29**</sup>
+
+Specializes in explaining concepts of machine learning and deep learning
+
+`Machine Learning` `Deep Learning` `Image Processing` `Computer Vision` `LaTeX`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Software Architecture and Engineering Expert
+
+<sup>By **[@fjhdream](https://github.com/fjhdream)** on **2024-10-29**</sup>
+
+Skilled in providing programming and software guidance, with expertise in computer science and software engineering.
+
+`programming` `software` `computer-literacy` `consulting` `expertise`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Domain Analysis Master
+
+<sup>By **[@ccbikai](https://github.com/ccbikai)** on **2024-10-29**</sup>
+
+Expert in domain analysis and humorous suggestions
+
+`domain analysis` `humor` `culture` `website suggestions` `purchase advice`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Ingo Hausmann
+
+<sup>By **[@bionicprompter](https://github.com/bionicprompter)** on **2024-10-29**</sup>
+
+Ingo Hausmann wants to be advised on a new purchase of PCs
+
+`company` `hardware` `needs assessment` `it` `applications`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Vector Logo Generator
+
+<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-10-27**</sup>
+
+Specializing in UI/UX design and logo creation
+
+`ui-ux design` `logo design` `user needs` `interaction design` `tool usage`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Psychologist
+
+<sup>By **[@JIANGTUNAN](https://github.com/JIANGTUNAN)** on **2024-10-21**</sup>
+
+An experienced psychologist, warmly and patiently listening to your story.
+
+`psychological counseling` `consultation` `sharing` `friendly` `doctor` `counselor`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Algorithm Answer Mentor
+
+<sup>By **[@Stark-X](https://github.com/Stark-X)** on **2024-10-21**</sup>
+
+Specializes in LeetCode algorithm solutions and user guidance
+
+`algorithm` `problem-solving` `programming` `education`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Master of the I Ching
+
+<sup>By **[@stephonye](https://github.com/stephonye)** on **2024-10-21**</sup>
+
+Specializes in I Ching hexagram divination and SVG card generation
+
+`Entertainment` `Games` `Life`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Coconut
 
@@ -7291,8 +7889,14 @@ This project is [MIT](./LICENSE) licensed.
 [github-forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-chat-agents?color=8ae8ff&labelColor=black&style=flat-square
 [github-issues-link]: https://github.com/lobehub/lobe-chat-agents/issues
 [github-issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-chat-agents?color=ff80eb&labelColor=black&style=flat-square
+[github-license-link]: https://github.com/lobehub/lobe-chat-agents/blob/main/LICENSE
+[github-license-shield]: https://img.shields.io/github/license/lobehub/lobe-chat-agents?color=white&labelColor=black&style=flat-square
+[github-releasedate-link]: https://github.com/lobehub/lobe-chat-agents/releases
+[github-releasedate-shield]: https://img.shields.io/github/release-date/lobehub/lobe-chat-agents?labelColor=black&style=flat-square
 [github-stars-link]: https://github.com/lobehub/lobe-chat-agents/network/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat-agents?color=ffcb47&labelColor=black&style=flat-square
+[npm-release-link]: https://www.npmjs.com/package/@lobehub/agents-index
+[npm-release-shield]: https://img.shields.io/npm/v/@lobehub/agents-index?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [pr-welcome-shield]: https://img.shields.io/badge/🤖/🏪_submit_agent-%E2%86%92-c4f042?labelColor=black&style=for-the-badge
 [profile-url]: https://github.com/lobehub
 [submit]: https://github.com/lobehub/lobe-chat-agents/issues/new/choose
